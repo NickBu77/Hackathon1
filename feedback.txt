@@ -1,0 +1,11 @@
+Nick: Program that analyses the bias of articles
+The projects is small (just 2 files) but the functionality and logic was well implemented
+and the concepts learned during the course were used, showing a very good understanding of them.
+OOP, modules, JSON + API, Databases and analysis broght more value to the overall of the project.
+My advice would be to keep working in this project and build a website for it. 
+
+Python OOP:10/10
+Modules: 9/10
+Database:10/10
+JSON/API:10/10
+Overall: 10
